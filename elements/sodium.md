@@ -11,5 +11,5 @@ Sodium is a chemical element with the symbol Na (from Latin "natrium") and atomi
 It is a soft, silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table.
 
 Sodium has only one stable isotope.
-
+Sodium + Water = Explosion
 
